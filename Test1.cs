@@ -1,9 +1,9 @@
 using System;
 
-static void Main(string[]args)
+class Test_1
 {
-  class Test_1_Class_1
+  static void Main(string[]args)
   {
-    Console.WriteLine("Hello World")
+    Console.WriteLine("Hello World!")
     }
 }
